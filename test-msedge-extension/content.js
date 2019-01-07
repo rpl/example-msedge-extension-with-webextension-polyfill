@@ -1,0 +1,1 @@
+console.log("test-extension - content script loaded");
